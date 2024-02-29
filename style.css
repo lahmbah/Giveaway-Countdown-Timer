@@ -1,0 +1,29 @@
+.photo{
+    position: fixed;
+    padding: 0 0 0 0;
+    width: 600px;
+}
+.home{
+    text-align: right;
+    padding: 100px 300px 0 0;
+
+
+}
+.descripton{
+    padding: 50px 100px 0 0;
+    float: right;
+    width: 600px;
+}
+.topic{
+    text-align: right;
+    padding: 0px 240px 0px 0px;
+}
+.timer{
+    text-align: right;
+    padding: 200px 70px 0 0;
+    font-size: 40px;
+}
+  .countdown-label {
+
+    font-weight: normal;
+  }
